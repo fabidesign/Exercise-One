@@ -167,10 +167,10 @@ h1 {
             clear: both;
             position: relative;
             
-            -webkit-transition: left 2s;
-            -moz-transition: left 2s;
-            -o-transition: left 2s;
-            transition: left 2s;
+            -webkit-transition: left 1s;
+            -moz-transition: left 1s;
+            -o-transition: left 1s;
+            transition: left 1s;
         }
         
         .slider-image
