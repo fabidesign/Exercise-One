@@ -211,7 +211,7 @@ btn:hover{
 }
 
 .cart {
-  grid-column: 5 / 6;
+  grid-column: 5;
   grid-row: 1 / 4;
 }
 
